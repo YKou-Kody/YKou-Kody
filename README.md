@@ -1,4 +1,4 @@
-## Hello this is Kody! 👋
+## Hi this is Kody 👋
 
 
 
