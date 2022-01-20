@@ -4,7 +4,7 @@
 
 ### 🧑 About me
 - Current Software Engineering student in Masters of Software Engineering at the University of Calgary
-- Seeking opporunities in fullstack development
+- Seeking opporunities in software development
 - University of Calgary Graduate, B.Sc in Chemical Engineering
 - Interested in all things tech
 
